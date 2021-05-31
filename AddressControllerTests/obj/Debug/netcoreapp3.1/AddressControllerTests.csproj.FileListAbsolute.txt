@@ -1,0 +1,4 @@
+C:\Users\Krute\source\repos\Pitney\AddressControllerTests\obj\Debug\netcoreapp3.1\AddressControllerTests.csprojAssemblyReference.cache
+C:\Users\Krute\source\repos\Pitney\AddressControllerTests\obj\Debug\netcoreapp3.1\AddressControllerTests.AssemblyInfoInputs.cache
+C:\Users\Krute\source\repos\Pitney\AddressControllerTests\obj\Debug\netcoreapp3.1\AddressControllerTests.AssemblyInfo.cs
+C:\Users\Krute\source\repos\Pitney\AddressControllerTests\obj\Debug\netcoreapp3.1\AddressControllerTests.csproj.CoreCompileInputs.cache
